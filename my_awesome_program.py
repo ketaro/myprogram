@@ -1,6 +1,6 @@
 print "This program is the best"
 
-print "it's seriously the best"
+print "it is seriously the best"
 
 print "it really is"
 
